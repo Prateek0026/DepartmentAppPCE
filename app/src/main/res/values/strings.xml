@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">CollegeApp</string>
+    <string name="A_E">Admission Enquiry </string>
+    <string name="G_F"> Online Grievance </string>
+    <string name="Intro">Welcome To PCE CollegeApp</string>
+    <string name="I1">I1</string>
+    <string name="I2">I2</string>
+    <string name="I3">I3</string>
+    //GF
+    <string name="Name">Full Name</string>
+    <string name="Email">Email ID</string>
+    <string name="Mobile">Mobile No.</string>
+    <string name="Subject">Subject</string>
+    <string name="Description">Description</string>
+    <string name="Incidence_Dat">Incidence Date </string>
+    <string name="SubmitGF"> Submit </string>
+
+    //AE
+    <string name="Name1">Full Name</string>
+    <string name="Email1">Email ID</string>
+    <string name="Mobile1">Mobile No.</string>
+    <string name="City">City</string>
+    <string name="State">State</string>
+    <string name="MarksObtain">Marks Obtain(%)</string>
+    <string name="MarksObtain2">Marks Obtain(%)</string>
+    <string name="Remark">Remark</string>
+    <string name="SubmitAE"> Submit </string>
+
+    //Headings
+    <string name="Heading">CollegeApp</string>
+    <string name="HeadingGF">Grievances Form</string>
+    <string name="HeadingAE">Admission Enquiry</string>
+    <string name="HeadingABUS">About Us</string>
+    <string name="HeadingPCEATG">PCE At Glance</string>
+    <string name="HeadingDepart">Departments</string>
+    <string name="HeadingChairman">Chairman of LTJSS</string>
+    <string name="HeadingLeader">Leader of LTJSS</string>
+    <string name="HeadingAdmin">Our Administrative Strength</string>
+
+    //HomePage
+    <string name="WT_PCE">WELCOME TO P.C.E. NAGPUR</string>
+    <string name="DetailPCE">Lokmanya Tilak Jankalyan Shikshan Sanstha was founded in the year 1983 by a creative and dynamic visionary, Dr. Satish Chaturvedi. With his strong will, commitment, strength..</string>
+    <string name="PCEatGl">PCE AT A GLANCE</string>
+    <string name="PCEatGlanceD">The Priyadarshini College of Engineering, Nagpur, one of the leading Engineering Colleges in the progressive..</string>
+    <string name="Read">read more</string>
+    <string name="BackGround">Back</string>
+    <string name="PCEAtGlancePic">Pic</string>
+
+    <string name="About">ABOUT</string>
+    <string name="ChairmanOfLTJSS"><b>CHAIRMAN OF LTJSS</b>\n<br />An educationist par excellence, the chairman cherishes the Sanstha as the live entity of his intellectual aspirations..</string>
+    <string name="ChairManPic">Pic</string>
+    <string name="ReadMoreC"><u>read more>>></u></string>
+    <string name="LeaderOfLTJSS"><b>LEADERS OF LTJSS</b>\n<br />Smt. Abha Chaturvedi, Secretary of the Sanstha is the heart sensitizing the intellect of the Sanstha with her guardianship..</string>
+    <string name="LeaderPic">Pic</string>
+    <string name="ReadMoreL">read more>>></string>
+    <string name="OurAdminStrength"><b>OUR ADMIN STRENGTH</b>\n<br />The tenacious platform which dares to dream big, converts hundred of novice students’ kaleidoscopic canvas of potentialities . . .</string>
+    <string name="AdminPic">Pic</string>
+    <string name="ReadMoreA">read more>>></string>
+
+    <string name="Achievements">ACHIEVEMENTS</string>
+    <string name="ClgAchievements">COLLEGE ACHIEVEMENTS</string>
+    <string name="StuAchievements">STUDENT ACHIEVEMENTS</string>
+    <string name="FalAchievements">FACULTY ACHIEVEMENTS</string>
+
+    <string name="FF">FEEDBACK FACILITY</string>
+    <string name="FFD">Feedback facility is available for Faculty and Students on AICTE Web portal</string>
+
+    <string name="ParentBody">PARENT BODY</string>
+    <string name="Vision"><b>Vision </b>\n<br />To become one of the India"'"s leading engineering institute in both education and research...</string>
+    <string name="objectivePic">Pic</string>
+    <string name="Mission"><b>Mission </b>\n<br />We Commit to Pursuit of excellence in Technical Education and promise to uphold the Spirit of..</string>
+    <string name="Objectives"><b>Objectives</b>\n<br />To ensure high quality teaching learning process with transparent feedback system from all stake holders to match with the University curriculum.</string>
+
+    //ReadAtGlance
+    <string name="PCEAtGlanceDetail"><b>Priyadarshini College of Engineering</b>, the Premier College of the Sanstha with<b> 32 years</b> of Proven Track Record ,endeavours to impart academic excellence through promoting technology,
+        scientific thinking and Corporate Social Responsibility. Priyadarshini College of Engineering has been awarded with an<b> A+ grade</b> status with CGPA 3.31 by <b>NAAC</b> for a term of 5 years upto 27.03.2024.
+        The institute has successfully received accreditation for four of its departments, namely Civil Engineering, Mechanical Engineering,
+        Electronics and Tele communication Engineering and Electrical Engineering for a period of 3 years, upto year 2023-24 i.e.upto 30-06-2024 by<b> National Board of Accreditation (NBA)</b>, New Delhi.\n\n<br /><br />
+The Institute runs 7 undergradute programs,4 post Graduate Programs and 3 PhD Programs. The Institute has also been conferred with <b>Grade A </b>by the Government of Maharashtra for Academic excellence and is the recipient of
+       <b> Gold Rank</b> Category in AICTE-CII survey in 2017 and 2018 and <b>Platinum Rank</b> Category in 2019.The Institute has also received <b>World Education Award 2017</b>, Innovation in Teaching Pedagogy;
+        India <b>Education Excellent Award 2018</b>, Berkshire Media USA; and Outstanding Engineering Institutive for Research and Innovation held at 15-<b> World Education Summit-2019</b>.</string>
+
+    //Departments
+    <string name="DepartTitle">Departments of PCE</string>
+    <string name="Ntg"></string>
+
+    //Leaders and Chairman
+    <string name="LeaderName"><b>SMT. ABHA CHATURVEDI</b>\n<br /><b>Secretary, LTJSS</b>\n<br /></string>
+    <string name="Leader">
+
+Smt. Abha Chaturvedi, Secretary of the Sanstha is the heart sensitizing the intellect of the Sanstha with her guardianship. She has introduced in the Sansthas premises the parent culture of nurturing the blooming
+        lives of the pupils who enter into the world with their admission cards. Her silent yet efficient mode of operation in the Sanstha has to be seen to be believed. She would want her young engineers to find
+        the tenacity to stay on course to meet revolutionary needs of the time. She believes in building the cult of generating batches of promising personalities who are equipped with humane technical skills to carve
+        a niche for themselves in the competitive arena of profession world.</string>
+    <string name="ChairmanName"><b>DR. SATISH CHATURVEDI</b>\n<br /><b>Chairman, LTJSS</b>\n<br /></string>
+    <string name="Chairman">A Veteran Visionary, An Epitome of Dedication.\n<br />
+
+D.Litt, Ph.D., M. A. (Political Science), M. A. (History), M. A. (Hindi Literature) L.L.B. Recipient of Gold Medal of Nagpur Universtiy Founder and Chairman, Lokmanya Tilak Jankalyan
+        Shikshan Sanstha Ex-Minister for Ex-servicemens Welfare, Employment and Self-Employment, Government of Maharashtra, and Guardian Minister of Nagpur District.\n<br />
+
+An educationist par excellence, the chairman cherishes the Sanstha as the live entity of this itellectual aspirations. Known for his highly skilled, technical and entrepreneurial approach,
+        the chairman searches for constant innovation, showing no signs of faltering in his resolve, while exploring higher levels of education. Believing firmly in the values of integrity,
+        transparency and candidness, our chairman believes in creating a collegial work culture based on merit, producing engineerings who are well educated, highly networked tech-savvy and
+        capable of addressing global issues. According to him, India needs the stalwart hands of young technocrats headed with their brainstorming intellect. Our chairman aims at contributing
+        in the huge tide of technological march of the country towards the Kalam vision 2020.</string>
+
+    <string name="AdminName"><b>DR. M. P. SINGH</b>\n<br /><b>Principal , Priyadarshini College of Engineering</b>\n<br /></string>
+    <string name="Admin">Priyadarshini College of Engineering (PCE) is one among reputed Technical Institution imparting quality education. The evolution of the institute over the past two decades has witnessed strong blend of artistic monumental infrastructure and resource of responsibility human committed to provide professional education with thrust on creativity and innovation. The environment in PCE ,apt for knowledge assimilation, its developments and its transformation with a sense of
+
+social responsibility, human values and environment has carved a niche for itself among the top technical institutes.\n<br />
+
+At PCE, we have a tradition of nurturing leadership qualities along with developing capabilities to meet the challenges of modern technology. we do by inspiring Students to involve
+        themselves in innovatives projects under the guidance of their faculty mentors. We believe that reaching excellence is a continuous process and the institute has penetrated into 
+        contributing to the world ,renowned technocrats, successful entrepreneurs, competent leaders, innovative scientists and researchers.\n<br />\n<br />
+
+<b>Academic Credentials of Principal PCE</b>\n<br />
+He was a meritorious student having passed his UG and PG with distinction. He is reviewer of manuscript of International Journal. He is recognized Ph.D Guide of R.T.M Nagpur University
+        and Sant Gadge Baba Amravati University. Under his supervision 13 students awarded Ph.D and 3 Students are pursuing Ph.D. He has completed 3 Research Projects sponsored by Government 
+        / Private Institution. He has to his credit good number of Research Paper Published in International Journals .He is the author of "Engineering Mechanics (Static's and Dynamics), a
+        text book for First year students. He is a man of planning and optimization and implemented his ideology in academic excellence of institution .He had organized International Conferences 
+        / National Conferences under his headship .He has taken keen interest in establishment of IIT Remote Center /Virtual Lab/ Virtual Room for the college .\n<br />\n<br />
+
+<b>Initiatives Taken</b>\n<br />
+With experienced and dedicated teachers and excellent infrastructure, PCE helps students to achieve their goals in life. He encourages all our students to take advantage of the opportunities 
+        provided by the college and involve themselves in all the activities that are offered. He has started curricular and co-curricular activities namely Horizon, Vihan, Shodh, Torque,UNNATI,
+        and Daksh etc. for the students. The overall development of the mind and body is a sign of a healthy and complete development as human being. He is member of professional bodies i.e.
+        Institutions of Engineers, Life Member of ISTE and Life member of Indian Institute of Industrial Engineering.\n<br />\n<br />
+
+<b>Administrative Exposure</b>\n<br />
+He was the head of Mechanical Engineering Department since 29/1/99 to 30 /9/2007.He is Principal since 1/10/2007.He is nominated member of L.E.C,Member of committee for affiliation ,Member 
+        of B.C.U.D,Member of B.O.S. , Spot Valuation Center Dy Chief winter 2000 and was a member for suggesting new courses in the light of upcoming Mihan Project and was a member of university 
+        knowledge commission R.T.M.Nagpur university. Hard work, dedication and perseverance are the most important traits in a person that lead to success. The future belongs to you; your need,
+        therefore, it is a time to prepare yourself for an active participation in the world. This participation demands that you become well informed and hence develop yourself like a pioneer 
+        and ultimately grow as responsible men and women. "We cannot always build the future for our youth, but we can build our youth for the future". Remember "The reward of every good action 
+        will be good only"?.</string>
+</resources>
