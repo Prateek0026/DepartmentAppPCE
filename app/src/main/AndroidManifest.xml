@@ -9,7 +9,14 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CollegeApp">
-        <activity android:name=".Admin"></activity>
+        <activity android:name=".BlogRequested"></activity>
+        <activity android:name=".AcceptBlog" />
+        <activity android:name=".WhatIsBlog" />
+        <activity android:name=".CreateBlog" />
+        <activity android:name=".HOD" />
+        <activity android:name=".NavigationPage" />
+        <activity android:name=".Login" />
+        <activity android:name=".Admin" />
         <activity android:name=".Chairman" />
         <activity android:name=".Leader" />
         <activity android:name=".DepartmentsPage" />

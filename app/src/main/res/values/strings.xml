@@ -6,6 +6,13 @@
     <string name="I1">I1</string>
     <string name="I2">I2</string>
     <string name="I3">I3</string>
+
+    //Login
+    <string name="ERP">ERP ID</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+
+
     //GF
     <string name="Name">Full Name</string>
     <string name="Email">Email ID</string>
@@ -27,7 +34,7 @@
     <string name="SubmitAE"> Submit </string>
 
     //Headings
-    <string name="Heading">CollegeApp</string>
+    <string name="Heading">Computer Technology</string>
     <string name="HeadingGF">Grievances Form</string>
     <string name="HeadingAE">Admission Enquiry</string>
     <string name="HeadingABUS">About Us</string>
@@ -36,6 +43,14 @@
     <string name="HeadingChairman">Chairman of LTJSS</string>
     <string name="HeadingLeader">Leader of LTJSS</string>
     <string name="HeadingAdmin">Our Administrative Strength</string>
+    <string name="HeadingLogin">Welcome</string>
+    <string name="HeadingBlog">Blog</string>
+    <string name="HeadingAcd">Academy</string>
+    <string name="HeadingScoop">Scoop</string>
+    <string name="HeadingMe">Me</string>
+    <string name="HeadingHOD">HOD Computer Technology</string>
+    <string name="HeadingCB">Create Blog</string>
+    <string name="HeadingRB">Requested Blog</string>
 
     //HomePage
     <string name="WT_PCE">WELCOME TO P.C.E. NAGPUR</string>
@@ -47,6 +62,8 @@
     <string name="PCEAtGlancePic">Pic</string>
 
     <string name="About">ABOUT</string>
+    <string name="HOD_CT"><b>From HoD\'s Desk</b>\n<br />With the rapid development in computer hardware and software technology, computing has become ubiquitous..</string>
+    <string name="HODPic">Pic</string>
     <string name="ChairmanOfLTJSS"><b>CHAIRMAN OF LTJSS</b>\n<br />An educationist par excellence, the chairman cherishes the Sanstha as the live entity of his intellectual aspirations..</string>
     <string name="ChairManPic">Pic</string>
     <string name="ReadMoreC"><u>read more>>></u></string>
@@ -85,6 +102,12 @@ The Institute runs 7 undergradute programs,4 post Graduate Programs and 3 PhD Pr
     <string name="Ntg"></string>
 
     //Leaders and Chairman
+
+    <string name="HODName"><b>From HoD\'s Desk</b>\n<br /><b>Dr Nita M. Thakare, Head of the Department, Computer Technology</b>\n<br />
+    </string>
+    <string name="HOD">With the rapid development in computer hardware and software technology, computing has become ubiquitous. We, the department of Computer Technology are committed to impart technical skills in computer engineering field and to introduce students to the latest computer technology. The department has state-of-the-art laboratories, well qualified and experienced faculty members and skilled staff. Computer Technology department has a very vibrant students forum SCOoP which organizes co-curricular and extra-curricular activities to give exposure to the hidden talent in students as well as to gain knowledge about new technologies. Students are also actively involved in presenting research papers in the conferences, developing softwares and participating in various sports at university/state level.
+Faculty Members are encouraged and involved in R and D work, publication of research papers and copyrighted literary materials. They are also closely associated with students through personal counseling and Mentoring.
+Thus the department strives to provide opportunities for overall development of students and faculty.</string>
     <string name="LeaderName"><b>SMT. ABHA CHATURVEDI</b>\n<br /><b>Secretary, LTJSS</b>\n<br /></string>
     <string name="Leader">
 
@@ -133,4 +156,29 @@ He was the head of Mechanical Engineering Department since 29/1/99 to 30 /9/2007
         therefore, it is a time to prepare yourself for an active participation in the world. This participation demands that you become well informed and hence develop yourself like a pioneer 
         and ultimately grow as responsible men and women. "We cannot always build the future for our youth, but we can build our youth for the future". Remember "The reward of every good action 
         will be good only"?.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    //Blog
+    <string name="CreateBlog">Create Blog+</string>
+    <string name="WIB">What is Blog?</string>
+    <string name="MapImage">M</string>
+    <string name="AddImage">AddImage</string>
+    <string name="CBD">About Your Blog</string>
+    <string name="RequestedBlog"> RB</string>
+    <string name="RequestBlog">Request</string>
+    <string name="NameOfUser">name</string>
+    <string name="CurrentDate">date</string>
+    <string name="FFImage">L</string>
+    <string name="FFFImage">L1</string>
+    <string name="Approve">Approve</string>
+    <string name="Reject">Reject</string>
+
+    //Academy
+    <string name="Lecture">Lecture</string>
+    <string name="Attendance">Attendance</string>
+    <string name="Marks">Marks</string>
+    <string name="TT">Time Table</string>
+
 </resources>

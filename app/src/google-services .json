@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "238122946404",
+    "firebase_url": "https://computertechnology-f398d-default-rtdb.firebaseio.com",
+    "project_id": "computertechnology-f398d",
+    "storage_bucket": "computertechnology-f398d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238122946404:android:0321f36682b31d572c7471",
+        "android_client_info": {
+          "package_name": "com.example.collegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238122946404-mhjdi5scn3eidlsep2rqo9ulseovksuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYTa6fbJ231fMmLZh1cS4V79MmonIQnNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238122946404-mhjdi5scn3eidlsep2rqo9ulseovksuo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
